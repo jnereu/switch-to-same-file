@@ -37,6 +37,10 @@ Switch to another file in the workspace with the same name if it's open.
 
 Initial release of Switch to Same File.
 
+### 0.0.2
+
+Search in other Split Editor
+
 ## License
 
 This extension is licensed under the [MIT License](LICENSE).

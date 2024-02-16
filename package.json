@@ -2,7 +2,7 @@
   "name": "switch-to-same-file",
   "displayName": "Switch to Same File",
   "description": "Switch to another file in the workspace with the same name if it's open.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Jorge Nereu",
   "engines": {
       "vscode": "^1.7.5"
@@ -32,5 +32,10 @@
   },
   "devDependencies": {
       "vscode": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnereu/switch-to-same-file.git" 
+  },
+  "license": "MIT"
 }
